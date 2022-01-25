@@ -1,24 +1,15 @@
 # Gritty Café
 
-## Om
-Gritty Café är en exempelsite för att lära sig versionshantering med Git och Github som host.
-
-
-## Översikt
-**Content** finns i rotmappen\
-**Bilder** finns i folder *img*\
-**Styling** finns i folder *style*
+## Om Gritty Café
+Gritty Café är en Site för att lära sig versionshantering med Git och Github som host.
+Dessutom bakar vi goda kakor som vi bjuder på lärarna.
+Lärarna blir då extra glada och vill lära ut ännu mer kunskap.
 
 ## credits
-> Så nu sitter jag här i min nya bil\
-> Och lyfter min gyllene hatt\
-> Och jag vill tacka livet, jag har haft tur
-
-av Lars Demian, stjärnan och karriären\
-(OBS! Känsliga varnas för ekivok text.)
+[@johan-at-grit](https://github.com/johan-at-grit/)
 
 ## Licens
 Detta projekt är publicerat med [MIT-license](https://opensource.org/licenses/MIT)
 
 ## Författare
-[@johan-at-grit](https://github.com/johan-at-grit/)
+[@BennyGRIT](https://github.com/BennyGRIT/)

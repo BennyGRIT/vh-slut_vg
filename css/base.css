@@ -11,20 +11,23 @@ a:link {
 }
 
 a:hover > p {
-   background-color: black;
-   color: white;
+   background-color: yellow;
+   color: rgb(47, 47, 255);
+   border: rgb(47, 47, 255) 1px solid;
 }
 
 body {
-   background-color: darkolivegreen;
-font-family: Helvetica, sans-serif;}
+   background-color: yellow;
+   font-family: Helvetica, Sans-Serif;
+}
 
 img {
    opacity: 15%;
 }
 
 footer{
-   background-color: rgb(47, 47, 255);
+      background-color: rgb(47, 47, 255);
+      color: yellow;
    position: sticky;
    bottom: 0;
    margin-top: 8rem;

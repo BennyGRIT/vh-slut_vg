@@ -17,4 +17,9 @@ a:hover > p {
 
 body {
    background-color: darkolivegreen;
+font-family: Helvetica, sans-serif;}
+
+img {
+   opacity: 15%;
 }
+

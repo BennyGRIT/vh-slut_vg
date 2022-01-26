@@ -32,3 +32,11 @@ footer{
    bottom: 0;
    margin-top: 8rem;
 }
+
+.banner{
+width: 1280px;
+}
+
+.logo img{
+   height: 100px;
+}
